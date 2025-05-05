@@ -1,0 +1,4 @@
+streamlit
+qiskit
+qiskit-aer
+matplotlib
