@@ -9,6 +9,11 @@ An interactive Streamlit app for building, simulating, and visualizing quantum c
 - Export circuit diagram and simulation histogram
 - Supports multiple qubits and custom gate angles
 
+## Built with:
+- Python
+- Qiskit
+- Streamlit
+
 ## Setup
 
 pip install -r requirements.txt
