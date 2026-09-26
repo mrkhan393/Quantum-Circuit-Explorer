@@ -2,8 +2,12 @@
 
 An interactive **Streamlit** web app for building, simulating, and visualizing quantum circuits using **Qiskit**. Pick from a library of classic quantum algorithms and demonstrations, tune parameters live, and instantly see the circuit diagram, measurement histogram, and Bloch sphere representation.
 
-🔗 **Live App:** [Quantum Circuit Explorer on Hugging Face Spaces](https://huggingface.co/spaces/mrkhan393/Quantum_Circuit_Explorer_App)
-📦 **Repository:** [mrkhan393/Quantum-Circuit-Explorer](https://github.com/mrkhan393/Quantum-Circuit-Explorer)
+---
+
+## Visit
+
+- 🔗 **Live App:** https://huggingface.co/spaces/mrkhan393/Quantum_Circuit_Explorer_App
+- 📦 **Repository:** https://github.com/mrkhan393/Quantum-Circuit-Explorer
 
 ---
 
